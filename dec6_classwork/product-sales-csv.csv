@@ -1,0 +1,11 @@
+Product,Category,Price,Quantity_Sold,Revenue,Month
+Laptop,Electronics,1200,50,60000,January
+Smartphone,Electronics,800,75,60000,January
+Headphones,Electronics,150,200,30000,January
+Tablet,Electronics,500,100,50000,January
+Smartwatch,Electronics,300,120,36000,January
+Keyboard,Electronics,100,150,15000,January
+Mouse,Electronics,50,300,15000,January
+Monitor,Electronics,250,80,20000,January
+Printer,Electronics,200,60,12000,January
+Router,Electronics,100,90,9000,January
